@@ -1,4 +1,16 @@
+/*
+
+(-)
+1. Si es null o empty => expection
+
+
+
+
+*/
+
+
 using NUnit.Framework;
+using dividirGrupos;
 
 namespace dividirGrupos.test
 {
@@ -12,7 +24,7 @@ namespace dividirGrupos.test
         [Test]
         public void Test1()
         {
-            Assert.Pass();
+            Assert.That(() => GrupDiv.Input_Validator(""), Throws.Exception);
         }
     }
 }
