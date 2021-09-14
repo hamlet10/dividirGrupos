@@ -1,0 +1,12 @@
+D:\Kata\dividirGrupos\dividirGrupos\bin\Debug\net5.0\dividirGrupos.deps.json
+D:\Kata\dividirGrupos\dividirGrupos\bin\Debug\net5.0\dividirGrupos.dll
+D:\Kata\dividirGrupos\dividirGrupos\bin\Debug\net5.0\ref\dividirGrupos.dll
+D:\Kata\dividirGrupos\dividirGrupos\bin\Debug\net5.0\dividirGrupos.pdb
+D:\Kata\dividirGrupos\dividirGrupos\obj\Debug\net5.0\dividirGrupos.csproj.AssemblyReference.cache
+D:\Kata\dividirGrupos\dividirGrupos\obj\Debug\net5.0\dividirGrupos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kata\dividirGrupos\dividirGrupos\obj\Debug\net5.0\dividirGrupos.AssemblyInfoInputs.cache
+D:\Kata\dividirGrupos\dividirGrupos\obj\Debug\net5.0\dividirGrupos.AssemblyInfo.cs
+D:\Kata\dividirGrupos\dividirGrupos\obj\Debug\net5.0\dividirGrupos.csproj.CoreCompileInputs.cache
+D:\Kata\dividirGrupos\dividirGrupos\obj\Debug\net5.0\dividirGrupos.dll
+D:\Kata\dividirGrupos\dividirGrupos\obj\Debug\net5.0\ref\dividirGrupos.dll
+D:\Kata\dividirGrupos\dividirGrupos\obj\Debug\net5.0\dividirGrupos.pdb
